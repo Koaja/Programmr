@@ -1,0 +1,29 @@
+Write a polymorphic java program to find the area of rectangle, circle, square and triangle. Use following function definition:
+
+double area(double a,double b)                  //rectangle,square
+
+double area(double r)                           //circle
+
+double area(double a,double b,double c)         //triangle
+
+Enter your choice :1
+Enter length :3.5
+Enter breadth :2.9
+Area of rectangle is :10.15
+ 
+
+Enter your choice :2
+Enter edge :5.5
+Area of square is :30.25
+ 
+
+Enter your choice :3
+Enter radius :4.5
+Area of circle is :63.585
+ 
+
+Enter your choice :4
+Enter side 1 :2
+Enter side 2 :3
+Enter side 3 :4
+Area of triangle is :2.9047375096555625

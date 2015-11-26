@@ -1,4 +1,4 @@
-package main;
+package books;
 
 public abstract class Book {
 
@@ -7,24 +7,22 @@ public abstract class Book {
 
 	public Book(String title) {
 		this.title = title;
+		getTitle();
+		getPrice();
 	}
 
-	public void setTitle(String title) {
-		this.title = title;
+	public Book() {
+
 	}
 
 	public String getTitle() {
 		return this.title;
 	}
 
-	public void setPrice(double price) {
-		this.price = price;
-	}
-
 	public double getPrice() {
 		return this.price;
 	}
 
-	public abstract void setPrice();
+	public abstract double setPrice();
 
 }

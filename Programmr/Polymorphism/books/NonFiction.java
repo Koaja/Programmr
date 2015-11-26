@@ -1,15 +1,14 @@
-package main;
+package books;
 
 public class NonFiction extends Book {
 
 	public NonFiction(String title) {
 		super(title);
-		setPrice();
 	}
 
 	@Override
-	public void setPrice() {
-
+	public double setPrice() {
+		return 30;
 	}
 
 }
