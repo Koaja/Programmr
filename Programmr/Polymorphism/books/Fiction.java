@@ -8,7 +8,7 @@ public class Fiction extends Book {
 
 	@Override
 	public double setPrice() {
-		return 30;
+		return this.price = 30;
 	}
 
 }
