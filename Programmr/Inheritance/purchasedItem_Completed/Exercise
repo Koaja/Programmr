@@ -1,0 +1,33 @@
+Consider a superclass PurchaseItem which models customer’s purchases. This class has:
+
+two private instance variables name (String) and unitPrice (double).
+One constructor to initialize the instance variables.
+A method getPrice that returns the unitPrice.
+Accessor and mutator methods.
+A toString method to return the name of the item followed by @ symbol, then the unitPrice.
+Consider two subclasses WeighedItem and CountedItem. 
+
+WeighedItem has an additional instance variable weight (double) in Kg while CountedItem has an additional variable quantity (int) both private.
+
+- Write an appropriate constructor for each of the classes making use of the constructor of the superclass in defining those of the subclasses. 
+
+- Override getPrice method that returns the price of the purchasedItem based on its unit price and weight (WeighedItem), or quantity (CountedItem).  Make use of getPrice of the superclass
+
+- Override the toString method also for each class making use of the toString method of the superclass in defining those of the subclasses.
+
+Write an application class Challenge where you construct objects from the two subclasses and print them on the screen.
+
+Enter name:
+Banana
+Enter unit price:
+3.00
+Enter weight:
+1.37
+Enter name:
+Pens
+Enter unit price:
+4.5
+Enter quantity:
+1
+Banana@ 3.0  1.37 Kg  4.11 $
+Pens@ 4.5  1 units  4.5 $
