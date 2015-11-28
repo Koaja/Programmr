@@ -1,4 +1,4 @@
-package books;
+package books_Completed;
 
 public abstract class Book {
 
@@ -7,8 +7,7 @@ public abstract class Book {
 
 	public Book(String title) {
 		this.title = title;
-		getTitle();
-		getPrice();
+	
 	}
 
 	public Book() {
