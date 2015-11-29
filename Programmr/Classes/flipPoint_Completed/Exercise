@@ -1,0 +1,14 @@
+Write a Java program that accepts two integers(x coordinate and y coordinate) in the main class "Challenge". 
+Create a "Point" class that should have a constructor and the following function:
+
+public void flip()
+
+Function should swap and print the x and y coordinates.
+
+Enter x coordinate:
+3
+Enter y coordinate:
+4
+After Swapping:
+x coordinate:4
+y coordinate:3

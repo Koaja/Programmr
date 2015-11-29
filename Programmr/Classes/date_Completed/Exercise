@@ -1,0 +1,15 @@
+Create a class called Date that includes three instance variables—a month (type int), a day (type int) and a year (type int). 
+Provide a constructor that initializes the three instance variables and assumes that the values provided are correct. 
+Provide a set and a get method for each instance variable. 
+Provided a method displayDate that displays the month, day and year separated by forward slashes (/). 
+
+Enter day:1
+Enter month:2
+Enter year:1990
+1/2/1990
+ 
+
+Enter day:4
+Enter month:5
+Enter year:1990
+4/5/1990
