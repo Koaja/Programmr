@@ -1,0 +1,18 @@
+Write a java program to convert a word from Uppercase to Lowercase.
+
+ 
+
+For example:
+
+Input:
+Enter an Uppercase string:
+WELCOME
+Output:
+welcome
+
+
+Input:
+Enter an Uppercase string:
+HELLO
+Output:
+hello

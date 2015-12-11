@@ -1,0 +1,9 @@
+Write a program that will capitalize the string entered by the user.
+
+Example1:
+
+Input:
+Enter a line of text:
+This is a test
+Output:
+THIS IS A TEST

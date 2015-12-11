@@ -1,0 +1,15 @@
+Write a java program to find the length of the string.
+
+ 
+
+For Example:
+Input:
+welcome
+Output:
+Length of the string is:7
+
+
+Input:
+hi
+Output:
+Length of the string is:2

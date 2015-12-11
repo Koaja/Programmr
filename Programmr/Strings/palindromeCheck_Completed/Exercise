@@ -1,0 +1,18 @@
+Write a program to ask a string from user and check if it is a palindrome or not.
+
+Hint: Palindrome strings are those strings which are same whether read from the front or back. eg 'mom', 'dad', 'nitin', 'madam'
+
+ 
+
+Input: 
+Enter a String:
+madam
+Output:
+Entered string is a palindrome.
+
+
+Input:
+Enter a String:
+abc
+Output:
+Entered string is not a palindrome.
