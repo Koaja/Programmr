@@ -1,4 +1,4 @@
-package longestWord_Completed;
+package longerWord;
 
 import java.io.BufferedReader;
 import java.io.IOException;
