@@ -1,4 +1,4 @@
-package changeCase;
+package removeVowelsFromWords;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,6 +10,7 @@ class Challenge {
 		InputStreamReader is = new InputStreamReader(System.in);
 		BufferedReader br = new BufferedReader(is);
 		String newstr = "";
+		char vowel[] = { 'a', 'e', 'i', 'o', 'u' };
 		char ch = ' ';
 
 		System.out.println("Enter the Word:");
@@ -18,6 +19,12 @@ class Challenge {
 		/// {write your code here
 		for (int i = 0; i < str.length(); i++) {
 			ch = str.charAt(i);
+			for (int j = 0; j < vowel.length; j++) {
+				if (ch == vowel[j]) {
+					newstr = str.substring(str.indexOf(ch), str.length());
+				}
+			}
+
 		}
 		/// }
 

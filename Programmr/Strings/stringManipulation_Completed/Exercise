@@ -1,0 +1,22 @@
+Write a Java program that will do the following operations to enter a  string.& perform following operations:
+
+1. Convert all alphabets to capital letters and print out the result.
+
+2. Convert all alphabets to lower-case letters and print out the result 
+3.  Print out the length of the string.
+
+
+Input:
+Enter String: Java Programming
+Output:
+JAVA PROGRAMMING
+java programming
+16
+
+
+Input:
+Enter String: programr
+Output:
+PROGRAMR
+programr
+8

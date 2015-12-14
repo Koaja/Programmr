@@ -1,0 +1,14 @@
+Problem:
+
+User enters a word, you have to code such that, any vowel found in word should be dropped.
+
+Input:
+Hello
+Output:
+Hll
+
+
+Input:
+john
+Output:
+jhn
