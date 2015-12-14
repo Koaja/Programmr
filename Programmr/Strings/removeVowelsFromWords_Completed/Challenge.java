@@ -1,4 +1,4 @@
-package removeVowelsFromWords;
+package removeVowelsFromWords_Completed;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -17,15 +17,7 @@ class Challenge {
 		String str = br.readLine();
 
 		/// {write your code here
-		for (int i = 0; i < str.length(); i++) {
-			ch = str.charAt(i);
-			for (int j = 0; j < vowel.length; j++) {
-				if (ch == vowel[j]) {
-					newstr = str.substring(str.indexOf(ch), str.length());
-				}
-			}
-
-		}
+		newstr = str.replaceAll("[aeiou]", "");
 		/// }
 
 		System.out.println("Edited Word:" + newstr);

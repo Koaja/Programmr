@@ -1,0 +1,13 @@
+Ask user for a string. Toggle all upper case and lower case characters. 
+Input:
+AbCdE 
+Output:
+aBcDe
+
+
+
+
+Input:
+HellO
+Output:
+hELLo
