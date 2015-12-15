@@ -1,0 +1,12 @@
+Write a java program to modify your input in place. Replace the substring with following characters as shown below:
+
+%20 -> ' ' 
+%3A -> '?' 
+%3D -> '.'
+
+kitten%20pic.jpg
+kitten pic.jpg
+ 
+
+hello%3Dworld.jpg
+hello.world.jpg

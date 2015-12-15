@@ -1,0 +1,7 @@
+Write a Java program that accepts a string as an input from the user. 
+Display the "rotated 2" version of the string where the first two characters are moved to the end. 
+The string length must be atleast 2.
+
+Enter a string:
+Hello
+loHe

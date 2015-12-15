@@ -1,0 +1,15 @@
+Write a Java program to accept a string as an input. Use the following method:
+
+public int maxBlock(String str)
+
+Following method must return the length of the largest block in the string.
+A block is a run of adjacent characters that are the same.
+
+Enter a string:
+hoopla
+2
+ 
+
+Enter a string:
+abCCCddBBBxx
+3

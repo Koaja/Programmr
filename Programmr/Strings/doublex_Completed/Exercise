@@ -1,0 +1,12 @@
+Given a string, return true if the first instance of "x" in the string is immediately followed by another "x".
+
+ 
+
+Enter a string of your choice:
+Ccxxab
+doublex? :true
+   
+
+Enter a string of your choice:
+catisnotdog
+doublex? :false

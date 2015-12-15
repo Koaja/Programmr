@@ -1,0 +1,28 @@
+Write a program that reads a line of text entered by the user. 
+Convert all the letters to upper case.
+Then print a list of the different letters that occur in the text in ascending order. 
+Also display the count of different letters.
+
+Please type in a line of text:
+hello
+Your input contains the following letters:
+E
+H
+L
+O
+There were 4 different letters.
+ 
+
+Please type in a line of text:
+What do you want
+Your input contains the following letters:
+A
+D
+H
+N
+O
+T
+U
+W
+Y
+There were 9 different letters.

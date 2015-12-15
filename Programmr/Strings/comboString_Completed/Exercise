@@ -1,0 +1,11 @@
+Make a Java program that accepts two strings as an input from the user. 
+Display a string in the form short+long+short, with the shorter string on the outside and the longer string on the inside. 
+If the two strings are equal, the first string will be on the outside.
+
+ 
+
+Enter a string:
+Hi
+Enter another string:
+Hello
+HiHelloHi
