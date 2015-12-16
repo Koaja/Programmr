@@ -1,0 +1,11 @@
+
+Write a program to check if the second string is a substring of the first string.
+
+Enter first string:CSED
+Enter second string:SE
+Yes
+ 
+
+Enter first string:abc
+Enter second string:d
+No

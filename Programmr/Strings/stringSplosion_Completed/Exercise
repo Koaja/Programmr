@@ -1,0 +1,12 @@
+Given a non-empty string like "Code" return a string like "CCoCodCode".
+
+ 
+
+Enter a string for stringSplosion:
+Sow
+BANG:SSoSow
+   
+
+Enter a string for stringSplosion:
+Create
+BANG:CCrCreCreaCreatCreate

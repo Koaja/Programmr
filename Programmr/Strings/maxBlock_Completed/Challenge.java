@@ -1,4 +1,4 @@
-package maxBlock;
+package maxBlock_Completed;
 
 import java.util.Scanner;
 

@@ -1,0 +1,12 @@
+Write a program to replace each occurence of a character in a string with another character.
+
+Enter a string:ab ab
+Enter the character to be replaced:a
+Enter the substitute character:b
+Output:bb bb
+ 
+
+Enter a string:abcd
+Enter the character to be replaced:d
+Enter the substitute character:a
+Output:abca

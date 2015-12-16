@@ -1,4 +1,4 @@
-package findTriplets;
+package findTriplets_Completed;
 
 import java.util.Scanner;
 
@@ -13,7 +13,13 @@ public class Challenge {
 
 	/// {write your code here
 	public static int countTriplets(String str) {
-		return 0;
+		int count = 0;
+		for (int i = 1; i < str.length(); i++) {
+			if (str.charAt(i - 1) == str.charAt(i) && str.charAt(i) == str.charAt(i + 1)) {
+				count++;
+			}
+		}
+		return count;
 	}
 	/// }
 }

@@ -1,0 +1,14 @@
+Write a Java program that accepts a string as an input. Use the following function:
+
+public static int sumNumbers(String str)
+
+Following function must return the sum of the numbers appearing in the string, ignoring all other characters.
+
+Enter a string:
+abc123xyz
+Sum:123
+ 
+
+Enter a string:
+aa11b33
+Sum:44
