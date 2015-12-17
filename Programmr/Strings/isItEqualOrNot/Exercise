@@ -1,0 +1,16 @@
+
+Write a Java program that accepts a string as an input. Use the following  method:
+
+public static boolean equalIsNot(String str)
+
+Following method returns true if the number of appearances of "is" anywhere in the string is equal to the number of appearances of "not" anywhere in the string (case sensitive).
+
+Enter a string:
+This is not
+false
+ noisxxnotyynotxisi
+ 
+
+Enter a string:
+This is notnot
+true
