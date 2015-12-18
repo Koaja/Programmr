@@ -1,0 +1,11 @@
+Given a string, return a string made of the chars at indexes 0,1, 4,5, 8,9...and so on. You are to use the following function:
+
+public static String altPairs(String str)
+
+Enter a string:
+kitten
+kien
+
+Enter a string:
+chocolate
+Chole
