@@ -1,0 +1,16 @@
+Complete the code to print an array of integers in reverse order, in the following format.
+
+Enter size of array:
+5
+Enter 5 integers to fill the array:
+1
+-3
+4
+7
+2
+Array printed backwards:
+element [4] is:2
+element [3] is:7
+element [2] is:4
+element [1] is:-3
+element [0] is:1

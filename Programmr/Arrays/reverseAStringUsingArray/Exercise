@@ -1,0 +1,16 @@
+Write a java program to reverse a String using array.
+
+For Example :
+
+Input:
+Enter a string:
+abc
+Output:
+cba
+
+
+Input:
+Enter a string:
+test
+Output:
+tset

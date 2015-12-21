@@ -1,0 +1,10 @@
+Make a Java program that accepts integer values in an array as an input. It should compute the average of the first half and the second half and display whichever is larger. If both averages are equal then also display the average once.  
+
+Size of the array:
+4
+Enter values into the array:
+2
+2
+4
+4
+Average:4.0

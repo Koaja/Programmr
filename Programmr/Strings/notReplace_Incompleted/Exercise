@@ -1,0 +1,15 @@
+Write a Java program that accepts a string as an input. Use the following method:
+
+public static String notReplace(String str)
+
+Following method must return a string where every appearance of the lowercase word "is" has been replaced with "is not".
+The string "is" should not be immediately preceeded or followed by a letter.
+
+Enter a string:
+is test
+is not test
+ 
+
+Enter a string:
+This is right
+This is not right
