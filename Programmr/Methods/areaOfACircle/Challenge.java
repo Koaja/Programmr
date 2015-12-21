@@ -14,7 +14,7 @@ public class Challenge {
 		/// {Write your code here
 
 		/// }
-		// System.out.print("Area of circle is: " + area);
+		//System.out.print("Area of circle is: " + area);
 
 	}
 
