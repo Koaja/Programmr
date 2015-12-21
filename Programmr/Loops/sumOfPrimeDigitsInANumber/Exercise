@@ -1,0 +1,16 @@
+Problem:
+
+Add all prime digits present in a number.
+
+For eg:
+
+Input:
+123456 
+Output: 
+Sum of prime digits= 10 
+
+
+Input:
+123
+Output:
+ 5
