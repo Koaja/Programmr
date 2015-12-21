@@ -1,0 +1,74 @@
+You have to create a program that displays a menu as:-
+
+1. Add Keychains to Order.
+
+2. Remove Keychains from Order.
+
+3. View Current Order.
+
+4. Checkout.
+
+ 
+
+Please Enter Your Choice-
+
+You have to use four different functions, one each to addKeychains(),removeKeychains(), viewOrder() and checkout().
+
+The four functions respond to the user's entered choice 1,2,3,4 respectively. Following are their functionalities:-
+
+addKeychain() - It will have one int arguments and int return type. It will ask the user the no of keychains to be added, add them and then return the new value.
+
+removeKeychain() - It will have one int argument and int return type. it will ask the user no. of keychains to be removed and then return the new value.
+
+viewOrder() - It will have two int arguments and void return type. It will display the no. of keychains, there individual prices and the total.
+
+checkout() - It will have two int arguments and void return type. It will ask the user its name. Display the order details and thank the user then.
+
+The program should exit when checkout is called.
+
+ 
+
+Welcome To The Keychain Shop!
+
+1. Add Keychains to Order.
+2. Remove Keychains from Order.
+3. View Current Order.
+4. Checkout.
+ 
+Please Enter Your Choice-1
+ 
+You have 0 keychains. How many do you want to add-2
+
+1. Add Keychains to Order.
+2. Remove Keychains from Order.
+3. View Current Order.
+4. Checkout.
+
+Please Enter Your Choice-2
+
+You have 2 keychains. How many do you want to remove-1
+ 
+1. Add keychains to Order.
+2. Remove keychains from Order.
+3. View Current Order.
+4. Checkout.
+
+Please Enter Your Choice-3
+ 
+No. of keychains-1
+Cost per keyChain-10
+Total Cost-10
+ 
+1. Add Keychains to Order.
+2. Remove keychains from Order.
+3. View Current Order.
+4. Checkout. 
+
+Please Enter Your Choice-4
+What is your name-Programmr
+
+No. of keychains-1
+Cost per keychain-10
+Total Cost-10
+Thank you for your order-Programmr
+

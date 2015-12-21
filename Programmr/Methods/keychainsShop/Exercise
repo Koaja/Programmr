@@ -1,0 +1,47 @@
+You have to create a menu driven program with the following menu:-
+
+1. Add Keychains to Order.
+
+2. Remove Keychains from Order.
+
+3. View Current Order.
+
+4. Checkout.
+
+Please Enter Your Choice:
+
+ 
+
+You have to make four different functions, one each to addKeychains(),removeKeychains(), viewOrder() and checkout().
+
+The four functions respond to the user's entered choice 1,2,3,4 respectively and display a message indicating that they have been called.
+
+The program should exit when checkout is called.
+
+ 
+
+Welcome To The Keychain Shop!
+
+1. Add Keychains to Order.
+2. Remove Keychains from Order.
+3. View Current Order.
+4. Checkout.
+Please Enter Your Choice: 1
+ 
+ADD KEYCHAINS.
+ 
+1. Add Keychains to Order.
+2. Remove Keychains from Order.
+3. View Current Order.
+4. Checkout.
+Please Enter Your Choice: 3
+ 
+VIEW ORDER.
+ 
+1. Add Keychains to Order.
+2. Remove Keychains from Order.
+3. View Current Order.
+4. Checkout.
+Please Enter Your Choice: 4
+ 
+CHECKOUT. 
