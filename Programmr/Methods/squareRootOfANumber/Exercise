@@ -1,0 +1,16 @@
+Write a Java program to print the square root of a positive number. Round off the output to the nearest integer.
+
+ 
+
+For example:
+
+Input:
+Enter a number: 4
+Output:
+The square root is: 2
+
+
+Input:
+Enter a number: 9
+Output:
+The square root is: 3

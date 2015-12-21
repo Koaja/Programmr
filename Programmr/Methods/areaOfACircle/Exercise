@@ -1,0 +1,18 @@
+
+
+Write a java program to find the area of a circle.
+
+ 
+
+For example:
+
+Input:
+Enter the radius: 2
+Output:
+Area of circle is: 12.56
+
+
+Input:
+Enter the radius: 10
+Output:
+Area of circle is: 314.0

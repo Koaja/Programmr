@@ -1,0 +1,10 @@
+Ask user for a letter, if upper case, change to lower case. Else leave it alone.
+
+Example:
+
+Input : N 
+ Output : n 
+
+
+Input: n 
+Output: n

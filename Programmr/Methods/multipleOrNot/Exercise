@@ -1,0 +1,25 @@
+Given two numbers, is the second input a multiple of the first?
+
+For Example:
+
+Input:
+
+3
+
+6
+
+Output:
+
+true
+
+ 
+
+Input:
+
+4
+
+6
+
+Output:
+
+false
