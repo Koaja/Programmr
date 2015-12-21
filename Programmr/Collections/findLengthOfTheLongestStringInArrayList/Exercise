@@ -1,0 +1,21 @@
+Write a method maxLength that takes an ArrayList of 5 Strings as a parameter and that returns the length of the longest string in the list. 
+If your method is passed an empty list, it should return 0.
+
+ 
+
+Enter 5 Strings to store in arraylist:
+pr
+ogr
+amr
+node
+s
+Length of longest string in arraylist:4
+   
+
+Enter 5 Strings to store in arraylist:
+hello
+world
+programr
+java
+php
+Length of longest string in arraylist:8
