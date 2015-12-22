@@ -1,0 +1,30 @@
+Write a program that will print a box of #'s taking from user the height and width values.
+
+Inputs:
+Enter height:
+7
+Enter width:
+5
+Output:
+#####
+#####
+#####
+#####
+#####
+#####
+#####
+
+
+Inputs:
+Enter height:
+5
+Enter width:
+5
+Output:
+#####
+#####
+#####
+#####
+#####
+Note. Use any looping statement.
+

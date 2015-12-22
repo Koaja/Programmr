@@ -1,0 +1,9 @@
+Write a program to find the sum of 5 integers.
+
+Enter an integer:2
+Enter an integer:4
+Enter an integer:3
+Enter an integer:-2
+Enter an integer:3
+Output :
+Total is:15
