@@ -1,0 +1,30 @@
+You have to design a pokemon game that replaces a pokemon 
+by the position specified by the user as:-
+
+Input/Output:
+
+Exchange Pokemon
+*Pikachu
+
+Charmeleon Geodude Gyarados Butterfree Mankey
+
+Choose a Pokemon to exchange with Pikachu(or 0 to exit) :4
+
+*Butterfree
+
+Charmeleon Geodude Gyarados Pikachu Mankey
+
+Choose a Pokemon to exchange with Butterfree(or 0 to exit) :2
+
+*Geodude
+
+Charmeleon Butterfree Gyarados Pikachu Mankey
+
+
+Choose a Pokemon to exchange with Butterfree(or 0 to exit) :2
+
+*Geodude
+
+Charmeleon Butterfree Gyarados Butterfree Mankey
+
+Choose a Pokemon to exchange with Gyarados(or 0 to exit) :0

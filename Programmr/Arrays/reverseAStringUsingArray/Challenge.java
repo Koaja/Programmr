@@ -15,8 +15,11 @@ class Challenge {
 
 		int len = str.length;
 		/// {Write your code here
-
+		for (int i = len -1; i >= sum; i--) {
+			System.out.print(str[i]);
+		}
 		/// }
+		System.out.println();
 		System.out.println(str);
 	}
 

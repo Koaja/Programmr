@@ -10,13 +10,23 @@ class Challenge {
 
 		System.out.print("Enter String: ");
 		String str = sc.nextLine();
-		// Start
-		/// { Write your code here
 
+		/// { Write your code here
+		int count = 2;
+
+		String[] number = str.split("");
+
+		for (int i = 0; i < number.length; i++) {
+			int currentNumber = Integer.parseInt(number[i]);
+			if (currentNumber % 2 != 0 && i % 3 != 0 && i % 5 != 0 && i % 7 != 0) {
+				System.out.println(currentNumber);
+				count = count + currentNumber;
+			}
+
+		}
 		/// }
 
-		// System.out.println("Number of a's: " + count);
-		// End
+		System.out.println("Sum of prime digits = " + count);
 	}
 
 }

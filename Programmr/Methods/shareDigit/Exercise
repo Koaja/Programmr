@@ -1,4 +1,5 @@
-Make a Java program that accepts two integers (each in the range 10-99) as an input. Use the following method:
+Make a Java program that accepts two integers (each in the range 10-99) as an input. 
+Use the following method:
 
 shareDigit(int num1,int num2)
 

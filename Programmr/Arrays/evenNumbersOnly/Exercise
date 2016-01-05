@@ -1,4 +1,6 @@
-Ask user for 5 numbers, store in a array and print the even numbers only.If not a single even number is entered print 'Even number not found in array. For Example:
+Ask user for 5 numbers, store in a array and print the even numbers only.
+If not a single even number is entered print
+ 'Even number not found in array. For Example:
 
 Input:
 1

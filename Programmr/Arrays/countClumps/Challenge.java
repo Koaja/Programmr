@@ -16,9 +16,18 @@ class Challenge {
 	}
 
 	public static int countClumps(int[] nums) {
-		return 0;
+		int clumps = 0;
+		
+		for(int i = 0; i < nums.length -1;i++){
+			if(nums[i] == nums[i+1]){
+				clumps++;
+			}
+		}
+		return clumps;
 	}
 	/// {Write you code here
 
 	/// }
 }
+
+

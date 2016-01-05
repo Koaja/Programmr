@@ -1,0 +1,15 @@
+Ask for 5 elements. 
+Swap every even positioned element with odd positioned element next to it.
+
+For example:
+
+Input:
+1 2 3 4 5
+Output:
+2 1 4 3 5 
+
+
+Input:
+10 5 6 3 9
+Output:
+5 10 3 6 9

@@ -15,8 +15,13 @@ class Challenge {
 			element[i] = scanner.nextInt();
 		}
 		System.out.println("Array printed backwards:");
+		
 		/// {write you code here
 
+		for(int j = r-1; j >= 0;j--){
+			System.out.println("element " + "[" + j + "]" + " is:" + element[j]);
+		}
+		
 		/// }
 	}
 

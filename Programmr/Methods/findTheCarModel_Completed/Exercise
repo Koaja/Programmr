@@ -1,0 +1,8 @@
+My friend have a car show room. He is having multiple cars in his show room. 
+He needs to check register whenever customer asks about available cars in perticular category. 
+You need to help him. 
+
+Category for a dealers, which accepts category of car customer is looking for and returns the car Model available in that category. 
+The function should accept the following categories 
+"SUV", "SEDAN", "ECONOMY", and "MINI" which in turn returns 
+"PAJERO" , "HONDA CITY" and "Hyundai VERNA" and "MARUTI SWIFT" ,"SKODA LAURA"  and "MARUTI CERVO","TATA NANO" respectively.
