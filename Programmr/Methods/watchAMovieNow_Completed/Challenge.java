@@ -16,19 +16,16 @@ class Challenge {
 		seeMovie(cost, review);
 		scanner.close();
 	}
-	
+
 	/// {write you code here
-	public static void seeMovie(double cost, int review){
-		if(cost < 5){
-			System.out.println("Very Interested");
-		} else if (cost >= 12 && review ==5){
-			System.out.println("Sort of interested");
-		} else if (cost < 12 && review == 5){
-			System.out.println("Very Interested");
-		} else if ((cost >= 5 && cost <= 11.99) && (review >= 2 && review <= 4)){
-			System.out.println("Sort of interested2");
-		}else {
-			System.out.println("Not interested");
+	public static void seeMovie(double cost, int review) {
+
+		if ((cost < 12 && review == 5) || (cost < 5)) {
+			System.out.println("very much interested");
+		} else if ((cost >= 12 && review == 5) || (cost >= 5 && cost <= 11.99) && (review >= 2 && review <= 4)) {
+			System.out.println("sort of interested");
+		} else {
+			System.out.println("not interested");
 		}
 	}
 	/// }

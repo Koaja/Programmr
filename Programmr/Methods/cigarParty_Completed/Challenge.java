@@ -18,13 +18,8 @@ class Challenge {
 
 	public static boolean cigarParty(int cigars, boolean isWeekend) {
 		/// {write you code here
-		if(cigars >= 40 && cigars <= 60){
-			return true;
-		}else if (cigars >= 40 && isWeekend == true){
-			return true;
-		}
-		
-		return false;
+
+		return ((cigars >= 40 && cigars <= 60) || (cigars >= 40 && isWeekend == true));
 		/// }
 	}
 }

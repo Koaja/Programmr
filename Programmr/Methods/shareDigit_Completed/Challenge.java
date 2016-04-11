@@ -1,4 +1,4 @@
-package shareDigit;
+package shareDigit_Completed;
 
 import java.util.Scanner;
 
@@ -15,12 +15,17 @@ class Challenge {
 	}
 	/// {write you code here
 
-	public static boolean shareDigit(int num1,int num2){
-		
-		
-	} 
+	public static boolean shareDigit(int num1, int num2) {
 
-	
+		if (num1 % 10 == num2 % 10 || num1 % 10 == num2 / 10) {
+			return true;
+		} else if (num1 / 10 == num2 % 10 || num1 / 10 == num2 / 10) {
+			return true;
+		}
+
+		return false;
+	}
+
 	/// }
 
 }
