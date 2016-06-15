@@ -1,0 +1,23 @@
+Ask user for a number n. Print a checkerboard of size n. Example more specified in code. 
+You would print a n x n square board of %'s with underscore in between. 
+But every other row has alternating patterns. (Like a chessboard or checkerboard).
+
+For Example:
+
+Input: 
+3 
+Output: 
+%_%_%_ 
+_%_%_% 
+%_%_%_ 
+
+
+
+Input: 
+5 
+Output: 
+%_%_%_%_%_ 
+_%_%_%_%_% 
+%_%_%_%_%_   
+_%_%_%_%_% 
+%_%_%_%_%_ 

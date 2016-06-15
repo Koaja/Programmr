@@ -1,0 +1,19 @@
+You have to design the code such that the user has only three tries to guess the correct pin of the account
+Input: 
+22132 
+23412 
+12345 
+Output:- 
+INCORRECT PIN. TRY AGAIN. 
+INCORRECT PIN. TRY AGAIN. 
+PIN ACCEPTED. YOU NOW HAVE ACCESS TO YOUR ACCOUNT. 
+
+
+Input: 
+88843 
+23434 
+23334 
+Output: 
+INCORRECT PIN. TRY AGAIN. 
+INCORRECT PIN. TRY AGAIN. 
+YOU HAVE RUN OUT OF TRIES. ACCOUNT LOCKED.

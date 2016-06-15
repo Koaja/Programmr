@@ -1,0 +1,19 @@
+ Armstrong Numbers
+
+
+Using nested for loops, find all the three-digit Armstrong numbers. 
+Armstrong numbers are three digit numbers such that the sum of the digits cubed is equal to the number itself.
+
+For example, 153 is an Armstrong number because 1³ + 5³ + 3³ = 153
+
+However, 294 is not, because 2³ + 9³ + 4³ = 801 (not 294)
+
+Output:
+
+153
+
+370
+
+371
+
+407

@@ -1,0 +1,21 @@
+Ask user for how much numbers to add. Then ask for specified number of int's. Then add them and print result. 
+
+For Example:
+Input: 
+5 
+1 
+2 
+3 
+4 
+5 
+Output: 
+15 
+
+
+Input: 
+3 
+3 
+2 
+1 
+Output: 
+6

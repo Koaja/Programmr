@@ -1,0 +1,10 @@
+Write a program that prompts user for a word and prints "Yes" if it is a palindrome and "No" if not.
+
+Enter a string:
+mom
+Yes
+ 
+
+Enter a string:
+Sam
+No

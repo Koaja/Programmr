@@ -1,0 +1,15 @@
+Given 12+12 , ask the user for the answer. If the user inputs the correct answer, print true else print false. Use booleans and not strings.
+
+For Example:
+
+Input: 
+25 
+Output: 
+false 
+
+
+
+Input: 
+24 
+Output: 
+true 
